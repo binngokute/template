@@ -1,0 +1,30 @@
+#header:not(.homepage) + div {
+    padding-top: 150px !important
+    }
+    
+    .register-group {
+    margin: 0 auto !important;
+    }
+    
+    .register-form {
+      margin-top: 0;
+      padding-top: 24px;
+    }
+    
+    .first-last-name, .password-input {
+        margin: 25px 0 0 !important;
+    }
+    
+    .register-group .ant-divider:first-child{
+       margin: 20px 0 !important;
+    }
+    
+    
+    .ant-divider:nth-child(2) {
+     margin-bottom: 30px;  
+     margin-top: 0px;
+    }
+    
+    .register-group .ant-btn {
+        margin: 0 auto 25px !important;
+    }
